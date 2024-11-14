@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center" style="font-family: Times; color: #364d3d;"> ☙ Jade M. Young ❧</h1>
 
 ---
-Computational Bioscience PhD Student | Developing Translational Medicine Tools & Pipelines for Single-Cell Omics | Amateur Podcast Editor
+### Computational Bioscience PhD Student | Developing Translational Medicine Tools & Pipelines for Single-Cell Omics | Amateur Podcast Editor
 
 ---
 
