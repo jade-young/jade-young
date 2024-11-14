@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 <h1 align="center" style="font-family: Times; color: #364d3d;"> ☙ Jade M. Young ❧</h1>
 
 ---
-<h3 style="text-align:center;">Computational Bioscience PhD Student | Developing Translational Medicine Tools & Pipelines for Single-Cell Omics | Amateur Podcast Editor</h3>
+
+<h2 align="center" style="font-family: Times;">Computational Bioscience PhD Student @ CU Anschutz | Developing Translational Medicine ML/AI Tools & Pipelines for Single-Cell -Omics | Amateur Podcast Editor</h2>
+<h3 align="center">♒ ♑︎ ♌︎ </h3>
+<h3 align="center">🇯🇲 </h3>
 ---
 
 <!-- You can add GitHub profile badges here using Markdown image syntax or HTML. Here are some example badges you might use. -->
